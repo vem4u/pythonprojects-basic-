@@ -5,3 +5,4 @@ Im learning python for over a week now and these are my projects:
 1. "first real project": Just a basic calculator
 2. "Number_guessing_game": idk bro just guess the number
 3. "Sign up page": just a sign page of email, password and username
+4. "RPG_turbased": a prototype of a turn based game
